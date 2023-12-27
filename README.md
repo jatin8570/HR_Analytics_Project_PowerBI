@@ -7,4 +7,9 @@
 * In this We will use excel sheet provided by HR Manager and trying to understand their requirements
 * * The HR Manager needs a way to track the working preference of the people(work from home/ work from office)
   * Reason behind why 10% or 15 % of Employers take sick leave on a particular day
+#### Data Gathering and Transformation
+* In this we will gather and transform the data using Power Query
+* We can add Excel files or different sheets togther easily if we have same columns, but what if we have a different column names
+* We will add a template whatever transformation make now in the existing sheet, that will also be applicable for the new sheets
+* When we are excluding/transforming data, always think of a dynamic way so that it will work even with new data
 * Here's the snapshot of the final dashboard=> 
